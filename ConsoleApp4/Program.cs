@@ -16,7 +16,7 @@ namespace Pets
 
 
             animals.Add(new Cat("YEET"));
-            animals.Add(new Dog("TOOT"));
+            animals.Add(new Dog("YOOT"));
             animals.Add(new Bird("YAAT"));
             animals.Add(new Cat("YUUT"));
 
